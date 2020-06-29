@@ -3,12 +3,12 @@ Display yr.no weather forecasts in Google Calendar with a compact title and very
 
 ## usage
 
-	http://weather.is.not.permanent.ee/?location={Your/Weather/Location}&filename=weather.ics
+	https://weather-calendar-feed.000webhostapp.com?location={Your/Weather/Location}&filename=weather.ics
 
 
 Example calendar URL:
 
-	http://weather.is.not.permanent.ee/?location=Estonia/Harjumaa/Tallinn&filename=weather.ics
+	https://weather-calendar-feed.000webhostapp.com?location=Estonia/Harjumaa/Tallinn&filename=weather.ics
 
 Modify the location in the URL according to your needs.
 
